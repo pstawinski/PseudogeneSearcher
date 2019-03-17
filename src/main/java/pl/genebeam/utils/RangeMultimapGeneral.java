@@ -1,12 +1,14 @@
 package pl.genebeam.utils;
 
 import java.util.ArrayList;
+import java.util.Collection;
 import java.util.Collections;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
 import java.util.Set;
+import java.util.stream.Collectors;
 
 import org.apache.commons.lang3.tuple.ImmutablePair;
 import org.apache.commons.lang3.tuple.Pair;
@@ -42,6 +44,11 @@ public class RangeMultimapGeneral<R extends Comparable<R>, K> {
             return Collections.emptySet();
 
         return new HashSet<K>(v);
+    }
+
+    public Set<K> get(Range<R> range) {
+        RangeMap<R, List<K>> submap = map.subRangeMap(range);
+        return submap.asMapOfRanges().values().stream().flatMap(Collection::stream).collect(Collectors.toSet());
     }
 
     public void put(Range<R> range, K value) {

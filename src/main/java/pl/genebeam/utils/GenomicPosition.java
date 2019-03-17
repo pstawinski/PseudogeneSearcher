@@ -63,4 +63,15 @@ public class GenomicPosition implements Comparable<GenomicPosition> {
         return true;
     }
 
+    /**
+     * @param i
+     * @return new GenomicPosition offseted
+     */
+    public GenomicPosition move(int offset) {
+        int newPosition = this.position + offset;
+        if (newPosition <= 0)
+            newPosition = 1;
+        return new GenomicPosition(this.chr, newPosition);
+    }
+
 }

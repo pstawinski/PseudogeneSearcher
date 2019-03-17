@@ -1,0 +1,149 @@
+"Category"	"ENSEMBLE id"	"Gene name"	"Populations/samples with predicted novel retroduplications"	"Populations with genotyped novel retroduplication"	"Insertion coordinate (hg19)"	"Count of populations"
+"Common or fixed"	"ENSG00000165480"	"SKA3"	"ASW,CEU,CHB,CHS,CLM,FIN,GBR,IBS,JPT,LWK,MXL,PUR,TSI,NA12878,NA12891"	"ASW,CEU,CHB,CHS,CLM,FIN,GBR,IBS,JPT,LWK,MXL,PUR,TSI,YRI"	"chr11:108585725-108585781"	14
+"Common or fixed"	"ENSG00000070756"	"PABPC1"	"ASW,CEU,CHB,CHS,CLM,FIN,GBR,IBS,JPT,LWK,MXL,PUR,TSI,YRI"	"ASW,CEU,CHB,CHS,CLM,FIN,GBR,IBS,JPT,LWK,MXL,PUR,TSI,YRI"		14
+"Common or fixed"	"ENSG00000180228"	"PRKRA"	"ASW,CEU,CHB,CHS,CLM,FIN,GBR,IBS,JPT,LWK,MXL,PUR,TSI,YRI"	"ASW,CEU,CHB,CHS,CLM,FIN,GBR,IBS,JPT,LWK,MXL,PUR,TSI,YRI"		14
+"Common or fixed"	"ENSG00000092445"	"TYRO3"	"ASW,CEU,CHB,CHS,CLM,FIN,GBR,IBS,JPT,LWK,MXL,PUR,TSI,YRI"	"ASW,CEU,CHB,CHS,CLM,FIN,GBR,IBS,JPT,LWK,MXL,PUR,TSI,YRI"	"chr13:44069805-44069823"	14
+"Common or fixed"	"ENSG00000004897"	"CDC27"	"ASW,CEU,CHB,CHS,CLM,FIN,GBR,IBS,JPT,LWK,MXL,PUR,TSI,YRI,NA12878,NA12891"	"ASW,CEU,CHB,CHS,CLM,FIN,GBR,IBS,JPT,LWK,MXL,PUR,TSI,YRI"		14
+"Common or fixed"	"ENSG00000029363"	"BCLAF1"	"ASW,CEU,CHB,CHS,CLM,FIN,GBR,IBS,JPT,LWK,MXL,PUR,TSI,YRI,NA12878,NA12891,NA12892,NA19238,NA19239,NA19240"	"ASW,CEU,CHB,CHS,CLM,FIN,GBR,IBS,JPT,LWK,MXL,PUR,TSI,YRI"		14
+"Common or fixed"	"ENSG00000122565"	"CBX3"	"ASW,CEU,CHB,CHS,CLM,FIN,GBR,IBS,JPT,LWK,MXL,PUR,TSI,YRI,NA12878,NA12891,NA12892,NA19238,NA19240"	"ASW,CEU,CHB,CHS,CLM,FIN,GBR,IBS,JPT,LWK,MXL,PUR,TSI,YRI"	"chr15:40854153-40854197"	14
+"Common or fixed"	"ENSG00000177879"	"AP3S1"	"ASW,CEU,CHB,CHS,CLM,FIN,GBR,IBS,JPT,LWK,MXL,PUR,TSI,YRI,NA12878,NA12891,NA19240"	"ASW,CEU,CHB,CHS,CLM,FIN,GBR,IBS,JPT,LWK,MXL,PUR,TSI,YRI"		14
+"Common or fixed"	"ENSG00000139372"	"TDG"	"ASW,CEU,CHB,CHS,CLM,FIN,GBR,JPT,LWK,MXL,PUR,TSI,YRI,NA12878,NA19240"	"ASW,CEU,CHB,CHS,CLM,FIN,GBR,IBS,JPT,LWK,MXL,PUR,TSI,YRI"	"chr12:125801082-125801222"	14
+"Common or fixed"	"ENSG00000148408"	"CACNA1B"	"ASW,CHS,CLM,FIN,GBR,IBS,LWK,MXL,PUR,TSI,YRI,NA12878,NA12891,NA19238,NA19239,NA19240"	"ASW,CEU,CHB,CHS,CLM,FIN,GBR,IBS,JPT,LWK,MXL,PUR,TSI,YRI"	"chr1:147499911-147500084"	14
+"Common or fixed"	"ENSG00000202582"	"AC131157.1"	"ASW,CHS,CLM,FIN,GBR,IBS,LWK,MXL,PUR,TSI,YRI,NA12878,NA12891,NA19240"	"ASW,CEU,CHB,CHS,CLM,FIN,GBR,IBS,JPT,LWK,MXL,PUR,TSI,YRI"		14
+"Common or fixed"	"ENSG00000152591"	"DSPP"	"GBR"	"ASW,CEU,CHB,CHS,CLM,FIN,GBR,IBS,JPT,LWK,MXL,PUR,TSI,YRI"		14
+"Common or fixed"	"ENSG00000109919"	"MTCH2"	"ASW,CEU,CHB,CHS,FIN,GBR,JPT,LWK,MXL,PUR,TSI,YRI,NA12878,NA12891,NA12892,NA19238,NA19239,NA19240"	"ASW,CEU,CHB,CHS,CLM,FIN,GBR,JPT,LWK,MXL,PUR,TSI,YRI"		13
+"Common or fixed"	"ENSG00000147274"	"RBMX"	"ASW,CEU,CHS,CLM,FIN,GBR,LWK,MXL,PUR"	"ASW,CEU,CHB,CHS,CLM,FIN,GBR,JPT,LWK,MXL,PUR,TSI,YRI"	"chr9:6727567-6727608"	13
+"Common or fixed"	"ENSG00000004455"	"AK2"	"ASW,CHS,CLM,FIN,GBR,LWK,MXL,TSI,YRI"	"ASW,CEU,CHB,CHS,CLM,FIN,GBR,JPT,LWK,MXL,PUR,TSI,YRI"	"chr11:17535263-17535390"	13
+"Common or fixed"	"ENSG00000143631"	"FLG"	"ASW,CHS,CLM,GBR"	"ASW,CEU,CHB,CHS,CLM,FIN,GBR,JPT,LWK,MXL,PUR,TSI,YRI"		13
+"Common or fixed"	"ENSG00000226761"	"TAS2R46"	"CHS,CLM,FIN,GBR,PUR"	"ASW,CEU,CHB,CHS,CLM,FIN,GBR,JPT,LWK,MXL,PUR,TSI,YRI"		13
+"Common or fixed"	"ENSG00000136231"	"IGF2BP3"	"CHS,GBR,LWK,MXL,PUR"	"ASW,CEU,CHB,CHS,CLM,FIN,GBR,JPT,LWK,MXL,PUR,TSI,YRI"		13
+"Common or fixed"	"ENSG00000234412"	"AL590623.1"	"TSI,NA12891"	"ASW,CEU,CHB,CHS,FIN,GBR,JPT,LWK,MXL,PUR,TSI,YRI"		12
+"Common or fixed"	"ENSG00000145919"	"BOD1"	"ASW,CLM,FIN,GBR,LWK,MXL,PUR,TSI,YRI,NA12878"	"ASW,CEU,CHB,CLM,FIN,GBR,IBS,LWK,MXL,PUR,TSI,YRI"		12
+"Common or fixed"	"ENSG00000168958"	"MFF"	"ASW,CEU,CHS,CLM,FIN,GBR,JPT,LWK,MXL,PUR,TSI,YRI,NA19238"	"ASW,CEU,CHS,CLM,FIN,GBR,JPT,LWK,MXL,PUR,TSI,YRI"	"chr15:93839674-93839703"	12
+"Population specific or rare"	"ENSG00000168214"	"RBPJ"	"CHS,FIN,GBR"	"ASW,CEU,CHS,CLM,FIN,GBR,IBS,JPT,LWK,PUR"		10
+"Population specific or rare"	"ENSG00000115539"	"PDCL3"	"CHS,FIN,GBR,MXL,PUR"	"CEU,CHB,CHS,CLM,FIN,GBR,JPT,MXL,PUR,TSI"	"chr2:179930004-179930210"	10
+"Population specific or rare"	"ENSG00000179195"	"ZNF664"	"ASW,FIN,GBR,MXL,PUR,TSI,YRI"	"ASW,CEU,CLM,FIN,GBR,MXL,PUR,TSI,YRI"	"chr2:3931606-3931651"	9
+"Population specific or rare"	"ENSG00000149531"	"FRG1B"	"ASW,CEU,CLM,GBR,MXL,PUR,TSI,YRI"	"ASW,CEU,CLM,GBR,LWK,MXL,PUR,TSI,YRI"		9
+"Population specific or rare"	"ENSG00000101266"	"CSNK2A1"	"CHS,FIN,GBR"	"CEU,CHB,CHS,FIN,GBR,JPT,LWK,TSI,YRI"	"chr11:11374361-11374566"	9
+"Population specific or rare"	"ENSG00000077380"	"DYNC1I2"	"CHS,GBR,JPT,LWK"	"CEU,CHB,CHS,FIN,GBR,JPT,LWK,TSI,YRI"		9
+"Population specific or rare"	"ENSG00000015479"	"MATR3"	"ASW,CEU,FIN,GBR,IBS,MXL,TSI"	"ASW,CEU,CLM,FIN,GBR,IBS,MXL,TSI"	"chr12:113886981-113887006"	8
+"Population specific or rare"	"ENSG00000173674"	"EIF1AX"	"CHS"	"ASW,CEU,CHB,CHS,GBR,JPT,LWK"		7
+"Population specific or rare"	"ENSG00000238159"	"AL583842.1"	"NA19238"	"CEU,CHS,FIN,GBR,JPT,TSI,YRI"		7
+"Population specific or rare"	"ENSG00000111640"	"GAPDH"	"CHB,CHS,JPT,MXL,PUR"	"CHB,CHS,FIN,JPT,MXL,PUR,TSI"	"chr5:56485948-56485977"	7
+"Population specific or rare"	"ENSG00000166377"	"ATP9B"	"ASW,CLM,LWK,MXL,PUR,YRI,NA19238"	"ASW,CLM,LWK,MXL,PUR,YRI"	"chr11:55372800-55372871"	6
+"Population specific or rare"	"ENSG00000119335"	"SET"	"FIN"	"CEU,CLM,FIN,GBR,MXL,TSI"		6
+"Population specific or rare"	"ENSG00000104341"	"LAPTM4B"	"CEU,CLM,FIN,GBR,PUR,TSI,NA12891"	"CEU,CLM,FIN,GBR,PUR,TSI"	"chr6:167333900-167333950"	6
+"Population specific or rare"	"ENSG00000118564"	"FBXL5"	"ASW,CLM,LWK,YRI"	"ASW,CLM,JPT,LWK,YRI"	"chr13:40620238-40620258"	5
+"Population specific or rare"	"ENSG00000239704"	"CDRT4"	"MXL"	"CEU,CHB,CHS,JPT,YRI"		5
+"Population specific or rare"	"ENSG00000175106"	"FAM18B2"	"MXL"	"CEU,CHB,CHS,JPT,YRI"		5
+"Population specific or rare"	"ENSG00000087053"	"MTMR2"	"CEU,CLM,FIN,GBR,TSI"	"CEU,CLM,FIN,GBR,TSI"	"chr13:47294623-47294828"	5
+"Population specific or rare"	"ENSG00000133872"	"TMEM66"	"CEU,FIN,GBR,PUR,NA12891"	"CEU,FIN,GBR,PUR,TSI"	"chr1:191798663-191798721"	5
+"Population specific or rare"	"ENSG00000130255"	"RPL36"	"GBR,MXL"	"CEU,GBR,MXL,PUR,TSI"		5
+"Population specific or rare"	"ENSG00000088256"	"GNA11"	"CLM,LWK,TSI,YRI"	"CLM,LWK,PUR,TSI,YRI"		5
+"Population specific or rare"	"ENSG00000102978"	"POLR2C"	"ASW,CLM,LWK,YRI"	"ASW,CLM,LWK,YRI"	"chr2:11405209-11405266"	4
+"Population specific or rare"	"ENSG00000234603"	"AC068481.2"	"LWK"	"ASW,LWK,MXL,TSI"		4
+"Population specific or rare"	"ENSG00000101166"	"SLMO2"	"ASW,LWK,MXL,YRI"	"ASW,LWK,MXL,YRI"	"chr3:8868992-8869081"	4
+"Population specific or rare"	"ENSG00000171204"	"TMEM126B"	"ASW,LWK,PUR,YRI"	"ASW,LWK,PUR,YRI"	"chr10:12256078-12256172"	4
+"Population specific or rare"	"ENSG00000171204"	"TMEM126B"	"ASW,LWK,PUR,YRI"	"ASW,LWK,PUR,YRI"	"chrX:121150758-121150783"	4
+"Population specific or rare"	"ENSG00000168028"	"RPSA"	"GBR"	"CEU,GBR,JPT,LWK"		4
+"Population specific or rare"	"ENSG00000167522"	"ANKRD11"	"GBR"	"CHB,CHS,CLM,GBR"		4
+"Population specific or rare"	"ENSG00000111615"	"KRR1"	"CHB,CHS,CLM,JPT"	"CHB,CHS,CLM,JPT"	"chr10:23199398-23199457"	4
+"Population specific or rare"	"ENSG00000157216"	"SSBP3"	"CLM"	"CHS,CLM,LWK,TSI"		4
+"Population specific or rare"	"ENSG00000172809"	"RPL38"	"CEU,CHS"	"ASW,CEU,CHS"		3
+"Population specific or rare"	"ENSG00000106366"	"SERPINE1"	"CEU"	"ASW,CEU,JPT"		3
+"Population specific or rare"	"ENSG00000149100"	"EIF3M"	"ASW,LWK,YRI"	"ASW,LWK,YRI"		3
+"Population specific or rare"	"ENSG00000118600"	"TMEM5"	"LWK,NA19238"	"ASW,LWK,YRI"	"chr12:43686933-43687078"	3
+"Population specific or rare"	"ENSG00000149273"	"RPS3"	"CHS"	"CEU,CHS,GBR"		3
+"Population specific or rare"	"ENSG00000125730"	"C3"	"CEU,JPT"	"CEU,CHS,JPT"		3
+"Population specific or rare"	"ENSG00000075624"	"ACTB"	"GBR"	"CEU,FIN,GBR"		3
+"Population specific or rare"	"ENSG00000107438"	"PDLIM1"	"CEU"	"CEU,FIN,TSI"		3
+"Population specific or rare"	"ENSG00000048028"	"USP28"	"LWK,YRI"	"CEU,LWK,YRI"		3
+"Population specific or rare"	"ENSG00000141568"	"FOXK2"	"CHB,CHS,JPT"	"CHB,CHS,JPT"		3
+"Population specific or rare"	"ENSG00000052723"	"SIKE1"	"CHB,CHS,JPT"	"CHB,CHS,JPT"		3
+"Population specific or rare"	"ENSG00000102317"	"RBM3"	"CHB"	"CHB,GBR,TSI"	"chr2:222926579-222926650"	3
+"Population specific or rare"	"ENSG00000101220"	"C20orf27"	"CLM,TSI"	"CLM,LWK,TSI"	"chr16:22153457-22153620"	3
+"Population specific or rare"	"ENSG00000111670"	"GNPTAB"	"ASW"	"ASW,YRI"		2
+"Population specific or rare"	"ENSG00000090054"	"SPTLC1"	"ASW,YRI"	"ASW,YRI"		2
+"Population specific or rare"	"ENSG00000104408"	"EIF3E"	"YRI"	"ASW,YRI"		2
+"Population specific or rare"	"ENSG00000138668"	"HNRNPD"	"FIN"	"CEU,FIN"		2
+"Population specific or rare"	"ENSG00000129351"	"ILF3"	"FIN"	"CEU,FIN"		2
+"Population specific or rare"	"ENSG00000141646"	"SMAD4"	"FIN"	"CEU,FIN"	"chr9:127732621-127732697"	2
+"Population specific or rare"	"ENSG00000084207"	"GSTP1"	"GBR"	"CEU,GBR"		2
+"Population specific or rare"	"ENSG00000100345"	"MYH9"	"GBR"	"CEU,GBR"		2
+"Population specific or rare"	"ENSG00000150867"	"PIP4K2A"	"GBR"	"CEU,GBR"		2
+"Population specific or rare"	"ENSG00000186298"	"PPP1CC"	"GBR"	"CEU,GBR"		2
+"Population specific or rare"	"ENSG00000115414"	"FN1"	"CEU"	"CEU,JPT"		2
+"Population specific or rare"	"ENSG00000148346"	"LCN2"	"CEU"	"CEU,JPT"		2
+"Population specific or rare"	"ENSG00000114416"	"FXR1"	"JPT"	"CEU,JPT"		2
+"Population specific or rare"	"ENSG00000204628"	"GNB2L1"	"CEU"	"CEU,TSI"		2
+"Population specific or rare"	"ENSG00000104613"	"INTS10"	"CHB,CHS"	"CHB,CHS"	"chr3:129510393-129510421"	2
+"Population specific or rare"	"ENSG00000066027"	"PPP2R5A"	"CLM"	"CHS,CLM"		2
+"Population specific or rare"	"ENSG00000165732"	"DDX21"	"CHS"	"CHS,FIN"	"chr8:97983417-97983606"	2
+"Population specific or rare"	"ENSG00000160877"	"NACC1"	"CHS,JPT"	"CHS,JPT"	"chr3:195806775-195806928"	2
+"Population specific or rare"	"ENSG00000005884"	"ITGA3"	"JPT"	"CHS,JPT"		2
+"Population specific or rare"	"ENSG00000120438"	"TCP1"	"LWK"	"CHS,LWK"		2
+"Population specific or rare"	"ENSG00000127184"	"COX7C"	"CHS"	"CHS,YRI"		2
+"Population specific or rare"	"ENSG00000009307"	"CSDE1"	"GBR"	"FIN,GBR"		2
+"Population specific or rare"	"ENSG00000108107"	"RPL28"	"FIN"	"FIN,JPT"		2
+"Population specific or rare"	"ENSG00000131732"	"ZCCHC9"	"MXL"	"JPT,MXL"	"chr16:81112400-81112663"	2
+"Population specific or rare"	"ENSG00000132603"	"NIP7"	"LWK"	"LWK,PUR"		2
+"Population specific or rare"	"ENSG00000205358"	"MT1H"	"LWK"	"LWK,YRI"	"chr7:7943875-7943991"	2
+"Population specific or rare"	"ENSG00000071082"	"RPL31"	"LWK"	"LWK,YRI"		2
+"Population specific or rare"	"ENSG00000124562"	"SNRPC"	"ASW"	"ASW"	"chr6:14362552-14362644"	1
+"Population specific or rare"	"ENSG00000181789"	"COPG"	"CEU"	"CEU"		1
+"Population specific or rare"	"ENSG00000196576"	"PLXNB2"	"CEU"	"CEU"		1
+"Population specific or rare"	"ENSG00000135919"	"SERPINE2"	"CEU"	"CEU"		1
+"Population specific or rare"	"ENSG00000134287"	"ARF3"	"CHB"	"CHB"	"chr17:55039267-55039426"	1
+"Population specific or rare"	"ENSG00000213995"	"CARKD"	"CHB"	"CHB"		1
+"Population specific or rare"	"ENSG00000023228"	"NDUFS1"	"CHB"	"CHB"		1
+"Population specific or rare"	"ENSG00000167721"	"TSR1"	"CHB"	"CHB"		1
+"Population specific or rare"	"ENSG00000163631"	"ALB"	"CHS"	"CHS"		1
+"Population specific or rare"	"ENSG00000140157"	"NIPA2"	"CHS"	"CHS"		1
+"Population specific or rare"	"ENSG00000042317"	"SPATA7"	"CHS"	"CHS"		1
+"Population specific or rare"	"ENSG00000121741"	"ZMYM2"	"CHS"	"CHS"		1
+"Population specific or rare"	"ENSG00000197249"	"SERPINA1"	"CLM"	"CLM"		1
+"Population specific or rare"	"ENSG00000169139"	"UBE2V2"	"CLM"	"CLM"		1
+"Population specific or rare"	"ENSG00000121031"	"AC103686.1"	"FIN"	"FIN"		1
+"Population specific or rare"	"ENSG00000110955"	"ATP5B"	"FIN"	"FIN"		1
+"Population specific or rare"	"ENSG00000198668"	"CALM1"	"FIN"	"FIN"		1
+"Population specific or rare"	"ENSG00000160014"	"CALM3"	"FIN"	"FIN"		1
+"Population specific or rare"	"ENSG00000179218"	"CALR"	"FIN"	"FIN"		1
+"Population specific or rare"	"ENSG00000196776"	"CD47"	"FIN"	"FIN"		1
+"Population specific or rare"	"ENSG00000121053"	"EPX"	"FIN"	"FIN"		1
+"Population specific or rare"	"ENSG00000139641"	"ESYT1"	"FIN"	"FIN"		1
+"Population specific or rare"	"ENSG00000169710"	"FASN"	"FIN"	"FIN"		1
+"Population specific or rare"	"ENSG00000145494"	"NDUFS6"	"FIN"	"FIN"		1
+"Population specific or rare"	"ENSG00000115761"	"NOL10"	"FIN"	"FIN"		1
+"Population specific or rare"	"ENSG00000143870"	"PDIA6"	"FIN"	"FIN"		1
+"Population specific or rare"	"ENSG00000106628"	"POLD2"	"FIN"	"FIN"		1
+"Population specific or rare"	"ENSG00000166794"	"PPIB"	"FIN"	"FIN"		1
+"Population specific or rare"	"ENSG00000173692"	"PSMD1"	"FIN"	"FIN"		1
+"Population specific or rare"	"ENSG00000168066"	"SF1"	"FIN"	"FIN"		1
+"Population specific or rare"	"ENSG00000137801"	"THBS1"	"FIN"	"FIN"		1
+"Population specific or rare"	"ENSG00000151116"	"UEVLD"	"FIN"	"FIN"		1
+"Population specific or rare"	"ENSG00000079246"	"XRCC5"	"FIN"	"FIN"		1
+"Population specific or rare"	"ENSG00000197020"	"ZNF100"	"FIN"	"FIN"		1
+"Population specific or rare"	"ENSG00000239900"	"ADSL"	"GBR"	"GBR"		1
+"Population specific or rare"	"ENSG00000065361"	"ERBB3"	"GBR"	"GBR"		1
+"Population specific or rare"	"ENSG00000142347"	"MYO1F"	"GBR"	"GBR"		1
+"Population specific or rare"	"ENSG00000128340"	"RAC2"	"GBR"	"GBR"		1
+"Population specific or rare"	"ENSG00000150459"	"SAP18"	"GBR"	"GBR"		1
+"Population specific or rare"	"ENSG00000125731"	"SH2D3A"	"GBR"	"GBR"		1
+"Population specific or rare"	"ENSG00000154447"	"SH3RF1"	"GBR"	"GBR"		1
+"Population specific or rare"	"ENSG00000136527"	"TRA2B"	"GBR"	"GBR"		1
+"Population specific or rare"	"ENSG00000110200"	"C11orf51"	"JPT"	"JPT"	"chr3:128829369-128829514"	1
+"Population specific or rare"	"ENSG00000051523"	"CYBA"	"JPT"	"JPT"		1
+"Population specific or rare"	"ENSG00000135862"	"LAMC1"	"JPT"	"JPT"		1
+"Population specific or rare"	"ENSG00000222046"	"DCDC2B"	"LWK"	"LWK"		1
+"Population specific or rare"	"ENSG00000149547"	"EI24"	"LWK"	"LWK"		1
+"Population specific or rare"	"ENSG00000150787"	"PTS"	"LWK"	"LWK"		1
+"Population specific or rare"	"ENSG00000160188"	"RSPH1"	"LWK"	"LWK"		1
+"Population specific or rare"	"ENSG00000185305"	"ARL15"	"MXL"	"MXL"	"chr1:246150186-246150335"	1
+"Population specific or rare"	"ENSG00000130413"	"STK33"	"MXL"	"MXL"		1
+"Population specific or rare"	"ENSG00000116001"	"TIA1"	"MXL"	"MXL"		1
+"Population specific or rare"	"ENSG00000113013"	"HSPA9"	"PUR"	"PUR"		1
+"Population specific or rare"	"ENSG00000100030"	"MAPK1"	"PUR"	"PUR"		1
+"Population specific or rare"	"ENSG00000123545"	"NDUFAF4"	"PUR"	"PUR"	"chr6:156592139-156592460"	1
+"Population specific or rare"	"ENSG00000163877"	"SNIP1"	"PUR"	"PUR"		1
+"Population specific or rare"	"ENSG00000156467"	"UQCRB"	"PUR"	"PUR"		1
+"Population specific or rare"	"ENSG00000162869"	"KLRAQ1"	"YRI"	"YRI"		1
