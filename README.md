@@ -91,7 +91,8 @@ spark.read.json("/aDirectoryWithJsons/")
     .write.json("pseudogeneToSamples.json")
 ```
 
-
+## Testing
+Example data and testing procedure will be published on 2019.03.25.
 
 ## Development
 
