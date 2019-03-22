@@ -6,6 +6,7 @@ This application identifies pseudogenes in Whole-Exome and Whole-Genome Next Gen
 ## Usage
 ### Using docker
 
+```
 docker run --rm \
     -v file.bam:/input/file.bam \
     -v file.bai:/input/file.bai \
@@ -19,6 +20,7 @@ docker run --rm \
     --output-json /output/out.json \
     --output-vcf /output/out.vcf \
     --reference /reference/reference.fa
+```
 
 ### Using java
 Standard usage may look like this
@@ -33,6 +35,9 @@ java -jar PseudogeneSearcher-0.0.1-SNAPSHOT.jar \
     --output-vcf /tmp/1.vcf \
     --standard-genome hg38
 ```
+
+### Program arguments
+```TODO: will be published by the 2019.03.25```
 
 ## Output
 Program will create both .vcf and .json file. However, I encourage to use the .json file and to make postprocessing of the file to remove
@@ -93,6 +98,13 @@ spark.read.json("/aDirectoryWithJsons/")
 
 ## Testing
 Example data and testing procedure will be published on 2019.03.25.
+
+
+## Known issues
+After adding the detailed disconcordance reports a problem with running on samples greater than 10 GB appeared due to excessive memory usage.
+
+Recommended solution is to use the ```--position``` argument to process only a part of the huge input bam in a sigle run. For example: ```--position chr2:1-242194529``` to test ```chr2```.
+
 
 ## Development
 
