@@ -11,6 +11,8 @@ import com.google.common.collect.Multimaps;
 import gnu.trove.set.hash.TIntHashSet;
 import htsjdk.samtools.SAMRecord;
 import pl.genebeam.pseudogenes.model.AlignmentResult;
+import pl.genebeam.pseudogenes.model.ReadBasicData;
+import pl.genebeam.pseudogenes.service.SamReadToBasicRead;
 
 public class TranscriptStats {
 	public TranscriptStats(Transcript t) {
@@ -18,12 +20,12 @@ public class TranscriptStats {
 	}
 
 	private final Transcript transcript;
-	private Multimap<Integer, SAMRecord> readsByIntronSize = Multimaps.synchronizedSetMultimap(HashMultimap.create());
+	private Multimap<Integer, ReadBasicData> readsByIntronSize = Multimaps.synchronizedSetMultimap(HashMultimap.create());
 	private Multimap<Integer, AlignmentResult> readsBySoftClipped = Multimaps
 			.synchronizedSetMultimap(HashMultimap.create());
 
 	public void addReadWithSmallInsertSize(Integer txIdx, SAMRecord read) {
-		readsByIntronSize.put(txIdx, read);
+		readsByIntronSize.put(txIdx, SamReadToBasicRead.convert(read));
 	}
 
 	public void addReadWithSoftClip(Integer txIdx, SAMRecord read, AlignmentResult ar) {

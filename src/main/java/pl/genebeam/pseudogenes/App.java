@@ -42,6 +42,7 @@ import htsjdk.samtools.SamReader;
 import htsjdk.samtools.SamReaderFactory;
 import htsjdk.samtools.reference.ReferenceSequenceFile;
 import htsjdk.samtools.reference.ReferenceSequenceFileFactory;
+import pl.genebeam.pseudogenes.helpers.FixedBatchSpliteratorWrapper;
 import pl.genebeam.pseudogenes.helpers.Report;
 import pl.genebeam.pseudogenes.helpers.Transcript;
 import pl.genebeam.pseudogenes.model.PositionWithEvidence;
@@ -221,7 +222,7 @@ public class App {
 		}
 		Stream<SAMRecord> bamStream = StreamSupport.stream(splitIterator, false);
 		if (threads > 1) {
-			bamStream = bamStream.parallel();
+			bamStream = FixedBatchSpliteratorWrapper.toFixedBatchStream(bamStream.parallel(), 10_000);
 		}
 		bamStream.forEach(read -> processRead(read));
 		bamReader.close();

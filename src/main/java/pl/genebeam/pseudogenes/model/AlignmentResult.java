@@ -54,7 +54,7 @@ public class AlignmentResult {
 	}
 
 	public void setReadContig(String readContig) {
-		this.readContig = readContig;
+		this.readContig = readContig.intern();
 	}
 
 	public int getReadPosition() {
