@@ -101,7 +101,7 @@ Example data and testing procedure will be published on 2019.03.25.
 
 
 ## Known issues
-After adding the detailed disconcordance reports a problem with running on samples greater than 10 GB appeared due to excessive memory usage.
+If your sample is so big, that you get into memory issues:
 
 Recommended solution is to use the ```--position``` argument to process only a part of the huge input bam in a sigle run. For example: ```--position chr2:1-242194529``` to test ```chr2```.
 
