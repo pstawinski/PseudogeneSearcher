@@ -261,8 +261,9 @@ public class App {
 
 			sb.append(transcript.getGene() + ":" + transcript.getName() + " (" + transcript.getChr() + ":"
 					+ transcript.getTxStart() + "):\t"
-					+ transcriptToPositions.getValue().stream().sorted().map(PositionWithEvidence::getPosition)
-							.map(GenomicPosition::toString).collect(Collectors.joining(","))
+					// +
+					// transcriptToPositions.getValue().stream().sorted().map(PositionWithEvidence::getPosition)
+					// .map(GenomicPosition::toString).collect(Collectors.joining(","))
 					+ "hits: " + hitsPseudogenesOf + "\n");
 
 			report.addPossiblePositions(transcript,
