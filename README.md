@@ -97,8 +97,7 @@ spark.read.json("/aDirectoryWithJsons/")
 ```
 
 ## Testing
-Example data and testing procedure will be published on 2019.03.25.
-
+Check ```test-docker.sh``` and ```test-shell.sh``` scripts. They download the reference sequence, input data and runs PseudogeneSearcher respectively using Docker or using Java.
 
 ## Known issues
 If your sample is so big, that you get into memory issues:
