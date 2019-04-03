@@ -37,7 +37,46 @@ java -jar PseudogeneSearcher-0.0.1-SNAPSHOT.jar \
 ```
 
 ### Program arguments
-```TODO: will be published by the 2019.03.25```
+```
+Usage:
+  Options:
+    --bam
+      Input bam file
+    --genes
+      Genes description from RefSeq UCSC hgTables
+    --help
+    --omit-duplicated-reads
+      Omit duplicates
+      Default: false
+    --only-soft-clipped
+      Use data only from soft clipped reads, omit these having deletion but no soft clipped ends
+      Default: false
+    --output
+      Ouput file, give - for stdout
+  * --output-json
+      Ouput file for json
+  * --output-vcf
+      Ouput file for vcf
+    --position
+      Only selected position, in format chr9:39898200-39909240
+    --pseudogenes
+      Pseudogenes gtf description
+    --reference
+      Reference fastq
+    --sample-name
+      Sample name
+      Default: name
+    --standard-genome
+      Value: hg19 or hg38, if given program uses it's own databases
+    --threads
+      Number of threads
+      Default: 1
+    --two-pass-run
+      Read bam file twice, cannot be used with stdin as bam input
+      Default: false
+```
+Due to the way this software is used, not all arguments are fully tested. Please check the ```Testing``` section belof to find the supported way of running PseudogeneSearcher.
+
 
 ## Output
 Program will create both .vcf and .json file. However, I encourage to use the .json file and to make postprocessing of the file to remove
